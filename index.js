@@ -4,3 +4,7 @@ function makeInt(string){
 function preserveDecimal(string){
   return parseFloat(string)
 }
+var number;
+function add(n){
+  return number += n;
+}
