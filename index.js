@@ -17,3 +17,6 @@ function subtract(a,b){
 function divide(a,b){
   return a/b;
 }
+function increament(n)){
+  return n++;
+}
